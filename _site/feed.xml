@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-26T04:00:36+04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ali’s dumb Blog</title><subtitle>There is nothing to see here Bozo</subtitle><entry><title type="html">PortaOS Migration and Rewrite</title><link href="http://localhost:4000/2022/06/26/PortaOS-Migration-and-rewrite.html" rel="alternate" type="text/html" title="PortaOS Migration and Rewrite" /><published>2022-06-26T00:00:00+04:00</published><updated>2022-06-26T00:00:00+04:00</updated><id>http://localhost:4000/2022/06/26/PortaOS-Migration-and-rewrite</id><content type="html" xml:base="http://localhost:4000/2022/06/26/PortaOS-Migration-and-rewrite.html"><![CDATA[<p>Hey! this is my first blog and its quite sudden soo stay with me &gt;:(</p>
+
+<hr />
+
+<h3 id="what-is-portaos">What is PortaOS?</h3>
+
+<p>PortaOS is an Operating system I am developing based entierly on python, I was planning on using one repo for everything, Kernal, and stuff, But that is hard as fuuuck and takes a while to clean, So I will be rewriting the entire project again, but first I will work on the Kernal, Then I will work on the Desktop OS.</p>
+
+<h3 id="does-this-mean-portaos-is-over">Does this mean PortaOS is over?</h3>
+
+<p>Nope</p>
+
+<p><em>yeah thats about it</em></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Hey! this is my first blog and its quite sudden soo stay with me &gt;:(]]></summary></entry></feed>
