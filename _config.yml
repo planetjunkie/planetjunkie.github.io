@@ -28,7 +28,7 @@ twitter_username: nexuscodez
 github_username:  planetjunkie
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
